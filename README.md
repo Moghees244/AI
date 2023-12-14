@@ -1,5 +1,5 @@
 # Artificial Intelligence and Machine Learning Repository
-This repository houses various AI algorithms, machine learning models, and some trained models.
+This repository houses various AI algorithms, machine learning models, and some trained models which I implemented during my Courses.
 # Contents
 - **AI Algorithms:** Explore implemented AI algorithms for different tasks.
 - **Machine Learning Codes:** Machine Learning Algoithms implemented manually.
