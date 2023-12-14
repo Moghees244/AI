@@ -8,7 +8,7 @@ class KMeansClustering:
         self.k = 0
         self.centroids, self.clusters, self.SSE = [], [], []
         # reading file
-        self.coordinates = pd.read_csv("data.csv")
+        self.coordinates = pd.read_csv("elbow_data.csv")
 
     def elbowMethod(self):
         for k in range(1, 10):
